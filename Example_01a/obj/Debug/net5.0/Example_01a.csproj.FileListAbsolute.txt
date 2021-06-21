@@ -1,0 +1,16 @@
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\bin\Debug\net5.0\Example_01a.exe
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\bin\Debug\net5.0\Example_01a.deps.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\bin\Debug\net5.0\Example_01a.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\bin\Debug\net5.0\Example_01a.runtimeconfig.dev.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\bin\Debug\net5.0\Example_01a.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\bin\Debug\net5.0\ref\Example_01a.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\bin\Debug\net5.0\Example_01a.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\Example_01a.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\Example_01a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\Example_01a.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\Example_01a.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\Example_01a.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\Example_01a.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\ref\Example_01a.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\Example_01a.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01a\obj\Debug\net5.0\Example_01a.genruntimeconfig.cache

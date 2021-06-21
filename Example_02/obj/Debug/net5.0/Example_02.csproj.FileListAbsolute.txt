@@ -1,0 +1,16 @@
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\bin\Debug\net5.0\Example_02.exe
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\bin\Debug\net5.0\Example_02.deps.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\bin\Debug\net5.0\Example_02.runtimeconfig.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\bin\Debug\net5.0\Example_02.runtimeconfig.dev.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\bin\Debug\net5.0\Example_02.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\bin\Debug\net5.0\ref\Example_02.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\bin\Debug\net5.0\Example_02.pdb
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\Example_02.csprojAssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\Example_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\Example_02.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\Example_02.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\Example_02.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\Example_02.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\ref\Example_02.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\Example_02.pdb
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\HomeWork_05\Example_02\obj\Debug\net5.0\Example_02.genruntimeconfig.cache

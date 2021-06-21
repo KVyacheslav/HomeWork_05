@@ -1,0 +1,15 @@
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\bin\Debug\net5.0\Example_01c.exe
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\bin\Debug\net5.0\Example_01c.deps.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\bin\Debug\net5.0\Example_01c.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\bin\Debug\net5.0\Example_01c.runtimeconfig.dev.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\bin\Debug\net5.0\Example_01c.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\bin\Debug\net5.0\ref\Example_01c.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\bin\Debug\net5.0\Example_01c.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\obj\Debug\net5.0\Example_01c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\obj\Debug\net5.0\Example_01c.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\obj\Debug\net5.0\Example_01c.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\obj\Debug\net5.0\Example_01c.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\obj\Debug\net5.0\Example_01c.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\obj\Debug\net5.0\ref\Example_01c.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\obj\Debug\net5.0\Example_01c.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_01c\obj\Debug\net5.0\Example_01c.genruntimeconfig.cache

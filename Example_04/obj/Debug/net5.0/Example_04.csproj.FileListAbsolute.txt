@@ -1,0 +1,32 @@
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.exe
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.deps.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.runtimeconfig.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.runtimeconfig.dev.json
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\ref\Example_04.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.pdb
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.csprojAssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\ref\Example_04.dll
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.pdb
+C:\Users\slava\OneDrive\Рабочий стол\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.genruntimeconfig.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.exe
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.deps.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.runtimeconfig.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.runtimeconfig.dev.json
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\ref\Example_04.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\bin\Debug\net5.0\Example_04.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.AssemblyInfoInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.AssemblyInfo.cs
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\ref\Example_04.dll
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.pdb
+C:\Users\Vyacheslav\Desktop\SkillBox\C#_HomeWorks\Module_05\homework_05\Example_04\obj\Debug\net5.0\Example_04.genruntimeconfig.cache
